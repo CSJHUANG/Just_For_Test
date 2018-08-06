@@ -1,0 +1,18 @@
+1.task书写	->解决
+2.uart仿真通过	->解决
+3.uart回传通过	->解决-rx、tx线反了
+4.spi模块书写	
+5.git使用		->后延
+6.notepad++代码生成	->解决
+
+
+pll.v	pll.xco(进过优化处理)	——选后者 Xilinx Core
+pll.veo	——例化模板
+
+.coe	coefficient file->系数文件
+
+新增-----------
+PLL
+ROM
+RAM
+FIFO
